@@ -6,7 +6,7 @@ palavra1 = 'PANDAS'
 palavra2 = 'PRINT'
 palavra3 = 'MATPLOTLIB'
 palavra4 = ''
-palavra5 = ''
+
 
 
 df = pd.read_csv(caminho_base)
